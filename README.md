@@ -1,0 +1,1 @@
+# Fullstack VagrantFile (birch release)
